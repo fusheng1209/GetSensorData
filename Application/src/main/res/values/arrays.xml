@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrcontent">
+        <item>删除</item>
+        <item>删除所有</item>
+    </string-array>
+</resources>
